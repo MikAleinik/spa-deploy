@@ -1,1 +1,1 @@
-# spa-deploy
+## Деплой SPA приложения на GitHub
